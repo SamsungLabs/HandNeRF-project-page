@@ -1,5 +1,5 @@
 ## HandNeRF project page
-Goto https://github.com/SamsungLabs/HandNeRF-project-page
+Goto https://samsunglabs.github.io/HandNeRF-project-page
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
